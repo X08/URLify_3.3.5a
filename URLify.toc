@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: URLify
+## Notes: Turns URLs in chat into clickable links that pop up a copy box.
+## Version: 1.0
+## Author: URLify
+
+URLify.lua
