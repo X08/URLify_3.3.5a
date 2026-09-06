@@ -1,6 +1,8 @@
-# URLify
-Lightweight URL Enabler for WotLK 3.3.5
+### [URLify](https://github.com/X08/URLify_3.3.5a)
+Lightweight URL enabler for WotLK 3.3.5.
+> Turns any URL posted in chat into a clickable link, and pops up a copyable box in the center of the screen so you can grab the link.
+**In-game options:** none — no slash command, works automatically. Whenever a link is posted, it converts it and shows a fixed, non-movable box in the center of the screen that you copy the link from.
 
-How to:
-Whenever a URL or link is posted it will transform it into a clickable link.
-A non-moveable box will appear in the center of the screen where you can copy the link from to use elsewhere.
+![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/URLify_GIF.gif)
+
+*Built for the 3.3.5a / WotLK client.- Made by X08 with help of Claude.ai*
