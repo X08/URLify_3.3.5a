@@ -1,3 +1,5 @@
+[Also check out my other addons!](https://github.com/X08/X08_WoW_3.3.5a)
+
 ### [URLify](https://github.com/X08/URLify_3.3.5a)
 Lightweight URL enabler for WotLK 3.3.5a.
 > Turns any URL posted in chat into a clickable link, and pops up a copyable box in the center of the screen so you can grab the link.
